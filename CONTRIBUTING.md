@@ -31,9 +31,16 @@ I value you -- taking the time to read this, contributing to this project, and h
      git pull origin main
      ```
 
----
-
 ## How to Contribute
+
+### Glossary
+
+1. Remembered Souls - Cards which contain an image, name, cause of death, and brief description of a life lost.
+2. Our Mission of Remembrance - The root page of the project which describes the project and its mission.
+3. In Memoriam - The page showing the list of Remembered Souls
+4. Profile Page - Standard profile page for those who have created their account (required to post lost loved ones)
+5. Your Submissions Page - The page in which registered users can view their postings of lost loved ones.
+6. A Life Remembered - The page in which stories and greater details of a lost loved one can be shared.
 
 ### Reporting Issues
 
