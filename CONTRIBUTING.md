@@ -26,27 +26,27 @@ You need to download [git](https://git-scm.com/downloads) and know the following
 
 ---
 
-4. Now that you've read this, follow the next steps:
-5. Open your terminal.
+5. Now that you've read this, follow the next steps:
+6. Open your terminal.
     a. If you're on mac, press `cmd+space` and search `terminal` and press `enter`.
     b. If you're on windows, `Windows key + X`, and then selecting `Windows Terminal (Admin)`
-6. Mac: `cd ~`; Windows: `cd %HOMEPATH%`
-7. `mkdir -p Desktop/memorial` -- or wherever you want this project to live on your computer. 
-8. `cd Desktop/memorial` -- or wherever you chose
-9. clone your repository `git clone https://github.com/YOUR-USERNAME/memorial .` (the `.` at the end will create it in the current folder instead of creating a new one for it): https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository
-10. If you cloned without the dot, `cd memorial`. If you cloned with it, then just proceed. **Do not close your terminal.** If you did, no worries, just repeat steps 5-8 & 10 again before you complete step 14.
-11. Import the file from this location into penpot: https://help.penpot.app/user-guide/import-export/#files-import
-12. Make your changes in penpot
-13. Export your changes from penpot into that file and overwrite the existing file with your exported file: https://help.penpot.app/user-guide/import-export/#files-export
-14. `git status` to confirm your changed file has been changed.
-15. `git add .` to add the changed file
-16. `git commit -m 'Succinct message which describes your change'`
-17. `git push --set-upstream origin main`: only necessary the first time. Every subsequent time just run `git push` to push your changes
-18. Repeat steps 7 to 12 until your design is how you want it to be
-19. Export the root object as an image ![2025-01-04@13 02 58 January-04@2x](https://github.com/user-attachments/assets/f9bbc14c-6262-4289-949f-82995dfc8b0e) and save it to the design folder for it (same location as `.penpot` file). In the below example, this was saved to `memorial/designs/components/Remembered_Souls/Remembered Soul.png`
-20. Open a Pull Request (PR) from your fork: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
-21. We'll review your proposed changes. If approved it'll be flagged for QA. This means I or another "Core" mainainter will review it as well -- this is done for every pull request.
-22. If QA is passed then we'll just merge it in and your changes will have been approved! What happens next? The "Core" maintainer will likely create a new issue which requests development work to be done to implement your changes. From here-on just practice patience until your new design changes have been developed and released. 
+7. Mac: `cd ~`; Windows: `cd %HOMEPATH%`
+8. `mkdir -p Desktop/memorial` -- or wherever you want this project to live on your computer. 
+9. `cd Desktop/memorial` -- or wherever you chose
+10. clone your repository `git clone https://github.com/YOUR-USERNAME/memorial .` (the `.` at the end will create it in the current folder instead of creating a new one for it): https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository
+11. If you cloned without the dot, `cd memorial`. If you cloned with it, then just proceed. **Do not close your terminal.** If you did, no worries, just repeat steps 5-8 & 10 again before you complete step 14.
+12. Import the file from this location into penpot: https://help.penpot.app/user-guide/import-export/#files-import
+13. Make your changes in penpot
+14. Export your changes from penpot into that file and overwrite the existing file with your exported file: https://help.penpot.app/user-guide/import-export/#files-export
+15. `git status` to confirm your changed file has been changed.
+16. `git add .` to add the changed file
+17. `git commit -m 'Succinct message which describes your change'`
+18. `git push --set-upstream origin main`: only necessary the first time. Every subsequent time just run `git push` to push your changes
+19. Repeat steps 7 to 12 until your design is how you want it to be
+20. Export the root object as an image ![2025-01-04@13 02 58 January-04@2x](https://github.com/user-attachments/assets/f9bbc14c-6262-4289-949f-82995dfc8b0e) and save it to the design folder for it (same location as `.penpot` file). In the below example, this was saved to `memorial/designs/components/Remembered_Souls/Remembered Soul.png`
+21. Open a Pull Request (PR) from your fork: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
+22. We'll review your proposed changes. If approved it'll be flagged for QA. This means I or another "Core" mainainter will review it as well -- this is done for every pull request.
+23. If QA is passed then we'll just merge it in and your changes will have been approved! What happens next? The "Core" maintainer will likely create a new issue which requests development work to be done to implement your changes. From here-on just practice patience until your new design changes have been developed and released. 
 
 ### Tech Contributors can START HERE, All Contributors MUST FOLLOW
 
