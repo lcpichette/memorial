@@ -42,7 +42,7 @@ You need to download [git](https://git-scm.com/downloads) and know the following
 16. `git commit -m 'Succinct message which describes your change'`
 17. `git push --set-upstream origin main`: only necessary the first time. Every subsequent time just run `git push` to push your changes
 18. Repeat steps 7 to 12 until your design is how you want it to be
-19. Export the root object as an image
+19. Export the root object as an image ![2025-01-04@13 02 58 January-04@2x](https://github.com/user-attachments/assets/f9bbc14c-6262-4289-949f-82995dfc8b0e) and save it to the design folder for it (same location as `.penpot` file). In the below example, this was saved to `memorial/designs/components/Remembered_Souls/Remembered Soul.png`
 20. Open a Pull Request (PR) from your fork: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
 21. We'll review your proposed changes. If approved it'll be flagged for QA. This means I or another "Core" mainainter will review it as well -- this is done for every pull request.
 22. If QA is passed then we'll just merge it in and your changes will have been approved! What happens next? The "Core" maintainer will likely create a new issue which requests development work to be done to implement your changes. From here-on just practice patience until your new design changes have been developed and released. 
