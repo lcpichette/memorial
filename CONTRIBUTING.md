@@ -6,9 +6,10 @@ I value you -- taking the time to read this, contributing to this project, and h
 
 ### Non-Tech Contributors START HERE
 
-1. Go ahead and create a github account: https://github.com/signup
-2. Fork the repository: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository
-3. Read the below...
+1. Design work is done with PenPot: https://penpot.app/ (It doesn't have a design file limit, and I don't want to impose contributors having to pay for the more popular tool Figma in order to contribute)
+2. Go ahead and create a github account: https://github.com/signup
+3. Fork the repository: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository
+4. Read the below...
 
 ---
 
