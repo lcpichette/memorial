@@ -1,3 +1,9 @@
+## Project Purpose
+
+The weight of loss is profound, and the celebration of life often remains in the shadows. I want to bring light to the lives of those we've loved and lost through a community-driven project.
+
+I believe an Open Source website will fit this mission the best; OSS websites are easily accessible and easy to contribute to. This website will be a place where people can share pictures, stories, and other meaningful details—such as the cause of death—to -- all to honor and remember those who have passed. Being able to share stories, pictures, and more with others in a space built on support, I believe, offers and invaluable resource to the community.
+
 ## Getting Started
 
 First, run the development server:
@@ -39,6 +45,14 @@ While we strive to make the community a safe and supportive space:
 - Technical Support: Advice provided by community members is offered voluntarily and may not always address your specific issue. Please exercise your own judgment.
 
 By joining, you agree to follow the community guidelines and help maintain a welcoming and supportive atmosphere for everyone.
+
+## Q & A
+
+Q. Why not a non-coding framework for the website's development?
+A. Because they're often limited in their capabilities. I don't mind picking up whatever extra work is necessary. We also compromise with React because it's the most popular framework, meaning more people can contribute to it if they'd like to.
+
+Q. Why not this other framework or this other hosting service?
+A. I chose NextJS, Vercel, and Shadcn because a lot of people are very familiar with it, it's easy to get off the ground, and it will not lose support anytime soon. There's also not a lot this stack can't do. 
 
 ## Funding
 
