@@ -4,6 +4,50 @@ I value you -- taking the time to read this, contributing to this project, and h
 
 ## Getting Started
 
+### Non-Tech Contributors START HERE
+
+1. Go ahead and create a github account: https://github.com/signup
+2. Fork the repository: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository
+3. Read the below...
+
+---
+
+You need to know how to use simple commands:
+1. Mac: `ls`; Windows: `dir`  ==  List files and directories
+2. `mkdir <directory-name>` ==  Makes a folder/"directory" within your current folder/directory.
+3. `cd <directory>` (e.g. `cd Desktop`) == Changes directory to specified directory (`..` is the previous directory, so if in `Desktop/memorial` `cd ..` takes you to `Desktop`)
+
+You need to download [git](https://git-scm.com/downloads) and know the following git commands:
+1. `git status`: Review status of files (changed, deleted, created)
+2. `git add <path/filename>` (e.g. `git add .` adds all files in current PWD)
+3. `git commit -m 'DESCRIBE YOUR CHANGES HERE'`: This essentially says "I have made a change that I am happy with". It's a necessary step.
+4. `git push` and `git push --set-upstream origin main`: The first one pushes your changes. The first time you do this, you need to run the second command (the one with `--set-upstream` in it). You can ignore the "why" and just acknowledge it's a hoop you have to jump through once.
+
+---
+
+4. Now that you've read this, follow the next steps:
+5. Open your terminal.
+    a. If you're on mac, press `cmd+space` and search `terminal` and press `enter`.
+    b. If you're on windows, `Windows key + X`, and then selecting `Windows Terminal (Admin)`
+6. Mac: `cd ~`; Windows: `cd %HOMEPATH%`
+7. `mkdir -p Desktop/memorial` -- or wherever you want this project to live on your computer. 
+8. `cd Desktop/memorial` -- or wherever you chose
+9. clone your repository `git clone https://github.com/YOUR-USERNAME/memorial .` (the `.` at the end will create it in the current folder instead of creating a new one for it): https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository
+10. If you cloned without the dot, `cd memorial`. If you cloned with it, then just proceed. **Do not close your terminal.** If you did, no worries, just repeat steps 5-8 & 10 again before you complete step 14.
+11. Import the file from this location into penpot: https://help.penpot.app/user-guide/import-export/#files-import
+12. Make your changes in penpot
+13. Export your changes from penpot into that file and overwrite the existing file with your exported file: https://help.penpot.app/user-guide/import-export/#files-export
+14. `git status` to confirm your changed file has been changed.
+15. `git add .` to add the changed file
+16. `git commit -m 'Succinct message which describes your change'`
+17. `git push --set-upstream origin main`: only necessary the first time. Every subsequent time just run `git push` to push your changes
+18. Repeat steps 7 to 12 until your design is how you want it to be
+19. Open a Pull Request (PR) from your fork: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
+20. We'll review your proposed changes. If approved it'll be flagged for QA. This means I or another "Core" mainainter will review it as well -- this is done for every pull request.
+21. If QA is passed then we'll just merge it in and your changes will have been approved! What happens next? The "Core" maintainer will likely create a new issue which requests development work to be done to implement your changes. From here-on just practice patience until your new design changes have been developed and released. 
+
+### Tech Contributors can START HERE, All Contributors MUST FOLLOW
+
 1. **Fork the Repository**  
    Create a fork of this repository to make your changes.
 
@@ -115,6 +159,4 @@ I value you -- taking the time to read this, contributing to this project, and h
 ## Code of Conduct
 
 Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Be respectful and considerate in all interactions.
-
----
 
