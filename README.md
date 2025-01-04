@@ -48,10 +48,10 @@ By joining, you agree to follow the community guidelines and help maintain a wel
 
 ## Q & A
 
-Q. Why not a non-coding framework for the website's development?
+Q. Why not a non-coding framework for the website's development?  
 A. Because they're often limited in their capabilities. I don't mind picking up whatever extra work is necessary. We also compromise with React because it's the most popular framework, meaning more people can contribute to it if they'd like to.
 
-Q. Why not this other framework or this other hosting service?
+Q. Why not this other framework or this other hosting service?  
 A. I chose NextJS, Vercel, and Shadcn because a lot of people are very familiar with it, it's easy to get off the ground, and it will not lose support anytime soon. There's also not a lot this stack can't do. 
 
 ## Funding
