@@ -24,9 +24,9 @@ We understand that building and engaging with a memorial website can be both a d
 
 Our Discord server is a safe space where you can:
 
-    Get emotional support: Share your feelings or just connect with others who understand.
-    Seek technical help: Ask questions about setting up your website, troubleshooting, or customizing your experience.
-    Share and learn: Exchange ideas, resources, and tips with other community members.
+- Get emotional support: Share your feelings or just connect with others who understand.
+- Seek technical help: Ask questions about setting up your website, troubleshooting, or customizing your experience.
+- Share and learn: Exchange ideas, resources, and tips with other community members.
 
 Click here to join: the [Discord](https://discord.gg/uNNBhpuSEd)
 
