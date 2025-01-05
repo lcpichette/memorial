@@ -4,6 +4,10 @@ The weight of loss is profound, and the celebration of life often remains in the
 
 I believe an Open Source website will fit this mission the best; OSS websites are easily accessible and easy to contribute to. This website will be a place where people can share pictures, stories, and other meaningful details—such as the cause of death—to -- all to honor and remember those who have passed. Being able to share stories, pictures, and more with others in a space built on support, I believe, offers and invaluable resource to the community.
 
+## DISCLAIMER
+
+Just because a PR is approved and merged does not mean that future discussion on it is shut-down. I am completely open to revisiting design and code decisions, particularly if there's a good amount of support by the community for it, and/or if the decision was made early on. 
+
 ## Getting Started
 
 First, run the development server:
